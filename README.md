@@ -1,0 +1,2 @@
+# prctice
+.net training
