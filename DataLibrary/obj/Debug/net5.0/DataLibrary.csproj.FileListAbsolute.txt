@@ -1,0 +1,24 @@
+D:\training\.net\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.deps.json
+D:\training\.net\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.dll
+D:\training\.net\DBdemo\DataLibrary\bin\Debug\net5.0\ref\DataLibrary.dll
+D:\training\.net\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.pdb
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.AssemblyReference.cache
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfoInputs.cache
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfo.cs
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.dll
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\ref\DataLibrary.dll
+D:\training\.net\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.deps.json
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.dll
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\bin\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\bin\Debug\net5.0\DataLibrary.pdb
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.AssemblyReference.cache
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfoInputs.cache
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.AssemblyInfo.cs
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.dll
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\ref\DataLibrary.dll
+C:\Users\ajinkya15119\Downloads\folder1 (1-5)\DBdemo\DataLibrary\obj\Debug\net5.0\DataLibrary.pdb
